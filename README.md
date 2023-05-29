@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-toufani&label=Profile%20views&color=0e75b6&style=flat" alt="h-toufani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hedieh toofany" target="blank"><img src="https://img.shields.io/twitter/follow/hedieh toofany?logo=twitter&style=for-the-badge" alt="hedieh toofany" /></a> </p>
-
 - 🔭 I’m currently working on **MRI images processing**
 
 - 🌱 I’m currently learning **DeepLearning**

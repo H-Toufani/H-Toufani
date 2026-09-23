@@ -23,7 +23,7 @@ University of Ottawa · Ottawa, Canada
 
 I work where **biomedical engineering meets deep learning**: turning spinal cord MRI into useful quantitative information through preprocessing, segmentation, and careful evaluation.
 
-My research home is the **University of Ottawa**, with experience at **The Ottawa Hospital Civic Campus** and **Unity Health Toronto**. Outside research, I build digital platforms and AI-driven automation as **Co-Founder & CTO at Phoenix Orbit** and support engineering students as a teaching assistant.
+My research home is the **University of Ottawa**, with experience at **The Ottawa Hospital Civic Campus** and **Unity Health Toronto**. I also support engineering students as a teaching assistant.
 
 ```python
 hediyeh = {

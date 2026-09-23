@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hedieh toofany" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hediyehtoufani]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hedieh toofany" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hedieh toofany" height="30" width="40" /></a>
 <a href="https://kaggle.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hedieh toofany" height="30" width="40" /></a>
 <a href="https://fb.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hedieh toofany" height="30" width="40" /></a>

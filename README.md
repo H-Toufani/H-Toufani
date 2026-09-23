@@ -1,64 +1,55 @@
-![MasterHead](https://camo.githubusercontent.com/e78a2d2cda4b522f9e8b88f813cb69ac0e9b4e1e0e1a182f795a07bec4b562c9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34612f39302f39622f34613930396231616237316132393536383030643863656564633362613939612e676966)
+# Hediyeh Toufani
 
-<h1 align="center">Hi 👋, I'm Hediyeh Toufani</h1>
-<h3 align="center">A passionate DeepLearning developer.</h3>
+**Medical Imaging AI Researcher · PhD Candidate in Biomedical Engineering**  
+University of Ottawa · Ottawa, Canada
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+[LinkedIn](https://www.linkedin.com/in/hediyehtoufani/) · [Google Scholar](https://scholar.google.com/citations?user=D49VhZYAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-5341-8281) · [Email](mailto:h.toufani@uottawa.ca)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-toufani&label=Profile%20views&color=0e75b6&style=flat" alt="h-toufani" /> </p>
+---
 
-- 🔭 I’m currently working on **MRI images processing**
+## Research focus
 
-- 🌱 I’m currently learning **DeepLearning**
+I develop deep learning methods and image-analysis pipelines for spinal cord MRI. My work combines biomedical engineering, computer vision, and quantitative imaging to study segmentation and image quality across heterogeneous clinical datasets.
 
-- 📫 How to reach me **h.toufani@uottawa.ca**
+I am a PhD candidate at the University of Ottawa, with research experience at The Ottawa Hospital Civic Campus and Unity Health Toronto. My research spans MRI preprocessing, 3D U-Net segmentation, diffusion-weighted and diffusion tensor imaging (DWI/DTI), and evaluation across imaging sites.
 
-- 📄 Know about my experiences [https://scholar.google.ca/citations?user=D49VhZYAAAAJ&hl=en&oi=ao](https://scholar.google.ca/citations?user=D49VhZYAAAAJ&hl=en&oi=ao)
+## Selected project
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/hediyehtoufani]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://kaggle.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://fb.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://instagram.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://medium.com/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hedieh toofany" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hedieh toofany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hedieh toofany" height="30" width="40" /></a>
-</p>
+### [Spinal Cord MRI Preprocessing & 3D U-Net Segmentation](https://github.com/H-Toufani/spinalcord-mri-preprocessing)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+A public research codebase for boundary-aware MRI preprocessing and deep learning segmentation.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-toufani&show_icons=true&locale=en&layout=compact" alt="h-toufani" /></p>
+- **Preprocessing:** spatial standardization, N4 bias-field correction, denoising, intensity normalization, contrast enhancement, and edge-aware filtering.
+- **Modeling:** single-channel and multi-channel 3D U-Net workflows with PyTorch and MONAI.
+- **Evaluation:** image-quality measures and segmentation metrics, including Dice, precision, and recall.
+- **Documentation:** source code, dependencies, and workflow instructions. Clinical MRI datasets are not distributed with the repository.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-toufani&show_icons=true&locale=en" alt="h-toufani" /></p>
+## Selected publications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-toufani&" alt="h-toufani" /></p>
+**Magnetic Resonance Imaging Preprocessing for Robust Spinal Cord Segmentation in Cervical Myelopathy**  
+Hediyeh Toufani, Richard M. Dansereau, Philippe Phan, Jefferson R. Wilson, and Eve C. Tsai.  
+*Journal of Imaging*, 12(7), 323, 2026. [Read paper](https://www.mdpi.com/2313-433X/12/7/323)
 
+**A pipeline to quantify spinal cord atrophy with deep learning: Application to differentiation of MS and NMOSD patients**  
+Hediyeh Toufani, Alireza Vard, and Iman Adibi.  
+*Physica Medica*, 89, 51–62, 2021. [Read paper](https://www.sciencedirect.com/science/article/pii/S112017972100274X)
 
+## Technical skills
 
-# HediyehToufani
+| Area | Tools and methods |
+| --- | --- |
+| Programming | Python, MATLAB, SQL |
+| Deep learning | PyTorch, MONAI, 3D U-Net, image segmentation |
+| Medical imaging | MRI preprocessing, quantitative MRI, DWI/DTI, multi-site evaluation |
+| Scientific computing | NumPy, SciPy, NiBabel, SimpleITK, scikit-image |
+| Development | Git, GitHub, Visual Studio Code |
 
-### Hello, My name is Hediyeh Toufani, I am deep learning developer and researcher! Feel free to contact me if you have an open position in your team :). Always eager to discuss with people on resaerch and development topics. h.toufani@uottawa.ca
+## Beyond research
 
-<a href="https://www.linkedin.com/in/linkedin.com/in/hediyeh-toufany">
-  <img align="left" alt="Hediyeh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+As Co-Founder & CTO at Phoenix Orbit, I work on technical architecture, full-stack web development, deployment, and AI-driven automation. I also support engineering education as a teaching assistant at the University of Ottawa.
 
+## Opportunities & collaboration
 
-## SUMMARY
-------------
-Motivated computer engineer with 9+ years of experience in research, development, and design. Aiming to apply strong knowledge and skills in **deep learning**, **computer vision**, **data structures/algorithms design** and **programming** in real-world industrial problems including, but not limited to, **image processing**, **medical image processing**, **data analysis**, and **high-performance computing**.
+I am interested in medical imaging AI, machine learning, computer vision, and biomedical R&D opportunities, including roles in Ottawa and Toronto and remote or hybrid work.
 
-
-### SKILLS
--------
-• Programming
- Python, Matlab, SQL
-• Version controller Git
- Image Processing, DeepNeural Networks
-
-### Google scholar page:
--------------
-https://scholar.google.ca/citations?user=D49VhZYAAAAJ&hl=en&oi=ao
+For research collaborations or relevant opportunities, connect on [LinkedIn](https://www.linkedin.com/in/hediyehtoufani/) or email [h.toufani@uottawa.ca](mailto:h.toufani@uottawa.ca).
